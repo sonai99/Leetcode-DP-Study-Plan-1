@@ -30,6 +30,9 @@ Solution of Leetcode DP Study Plan 1
 53. Maximum Subarray
 918. Maximum Sum Circular Subarray
 
+``Day 6```
 
+152. Maximum Product Subarray
+1567. Maximum Length of Subarray With Positive Product
 
 https://leetcode.com/study-plan/dynamic-programming/?progress=xmgu1tbe
