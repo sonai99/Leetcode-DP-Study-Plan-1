@@ -35,4 +35,16 @@ Solution of Leetcode DP Study Plan 1
 152. Maximum Product Subarray
 1567. Maximum Length of Subarray With Positive Product
 
+``Day 7```
+
+1014. Best Sightseeing Pair
+121. Best Time to Buy and Sell Stock
+122. Best Time to Buy and Sell Stock II
+
+```Day 8```
+
+309. Best Time to Buy and Sell Stock with Cooldown
+714. Best Time to Buy and Sell Stock with Transaction Fee
+
+
 https://leetcode.com/study-plan/dynamic-programming/?progress=xmgu1tbe
