@@ -46,5 +46,9 @@ Solution of Leetcode DP Study Plan 1
 309. Best Time to Buy and Sell Stock with Cooldown
 714. Best Time to Buy and Sell Stock with Transaction Fee
 
+```Day 9```
+
+139. Word Break
+42. Trapping Rain Water
 
 https://leetcode.com/study-plan/dynamic-programming/?progress=xmgu1tbe
